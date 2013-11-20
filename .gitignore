@@ -1,0 +1,17 @@
+*.o
+*.pyo
+*.pyc
+*~
+*.swp
+*#
+.cproject
+.project
+.pyproject
+.pydevproject
+.eclipse/
+.settings/
+*.bak
+Debug/
+Release/
+trash/
+bin/
