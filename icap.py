@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: UTF-8 -*-
 # Base Code Author : Steeve Barbeau, Luca Invernizzi
+# Copier : syake
 # This program is published under a GPLv2 license
 
 from scapy.all import TCP
